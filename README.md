@@ -49,7 +49,9 @@ pip3 install -r requirements.txt
 Si erreur ou autre, suivre les etapes du lien suivant : https://github.com/KaiyangZhou/deep-person-reid
 
 ## Etape 4 : Executer le code
-Il suffit d'executer le script bash 
+   1) **Placer le fichier object_reid.py dans le dossier deep-person-reid**
+   2) **Placer le fichier object_tracker.py dans le dossier yolov4-deepsort**
+   3) **Executer le script bash Executor.sh**
 ```bash
 bash executor.sh
 ```
