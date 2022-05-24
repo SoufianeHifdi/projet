@@ -48,7 +48,7 @@ pip3 install -r requirements.txt
 ```
 Si erreur ou autre, suivre les étapes du lien suivant : https://github.com/KaiyangZhou/deep-person-reid
 
-## Etape 4 : Executer le code
+## Etape 4 : Exécuter le code
    1) Placer le fichier object_reid.py dans le dossier deep-person-reid
    2) Placer le fichier object_tracker.py dans le dossier yolov4-deepsort
    3) Place le fichier Executor.sh dans le dossier racine du projet (au meme niveau que deep-person-reid et de yolov4-deepsort)
@@ -57,6 +57,6 @@ Si erreur ou autre, suivre les étapes du lien suivant : https://github.com/Kaiy
 bash executor.sh
 ```
 
-Les résultats de l'execution des trackings avec yolo (la ou sont stockes les crops) se trouvent dans yolov4-deepsort/Camera{#camera}/id{#id}
+Les résultats de l'exécution des trackings avec yolo (la ou sont stockes les crops) se trouvent dans yolov4-deepsort/Camera{#camera}/id{#id}
 
 Les résultats du reid, et de l'assosciation d'id de plusieurs caméra se trouvent dans le dossier reid_results
