@@ -51,7 +51,8 @@ Si erreur ou autre, suivre les etapes du lien suivant : https://github.com/Kaiya
 ## Etape 4 : Executer le code
    1) Placer le fichier object_reid.py dans le dossier deep-person-reid
    2) Placer le fichier object_tracker.py dans le dossier yolov4-deepsort
-   3) Executer le script bash Executor.sh
+   3) Place le fichier Executor.sh dans le dossier racine du projet (au meme niveau que deep-person-reid et de yolov4-deepsort)
+   4) Executer le script bash Executor.sh
 ```bash
 bash executor.sh
 ```
