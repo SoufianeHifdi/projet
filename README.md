@@ -57,4 +57,5 @@ bash executor.sh
 ```
 
 Les resultats de l'execution des trackings avec yolo (la ou sont stockes les crops) se trouvent dans yolov4-deepsort/Camera{#camera}/id{#id}
+
 Les resultats du reid, et de l'assosciation d'id de plusieurs camera se trouvent dans le dossier reid_results
