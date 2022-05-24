@@ -1,4 +1,4 @@
-# Projet Pres Surveillance Video
+# Projet Pres Surveillance Vidéo
 
 Dans ce fichier on retrouve les fichiers qui ont été developés dans le cadre du projet PRES, surveillance caméra.
 Dans ce projet on considére qu'on a 4 caméras.
